@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../University/University/Year 4/TDP4"
+		},
+		{
+			"name": "steppermotortest",
+			"path": "../steppermotortest"
+		},
+		{
+			"name": "blinkLed",
+			"path": "../blinkLed"
+		},
+		{
+			"name": "motordrivertest",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
